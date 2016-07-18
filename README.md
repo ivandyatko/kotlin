@@ -1,2 +1,2 @@
-# kotlin
-getting to know kotlin implementing basic algorithms
+# Kotlin tryouts
+Getting to know kotlin by implementing basic stuff
